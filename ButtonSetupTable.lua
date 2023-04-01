@@ -12,7 +12,7 @@ function onLoad()
 end
 
 function setupTable(player_color)
-    if player_color ~= "Grey" then
+    --[[ if player_color ~= "Grey" then
         local gloryCardDeck = Global.getVar('gloryCardDeck')
         print(gloryCardDeck)
         gloryCardDeck.deal(1, player_color)
@@ -29,5 +29,17 @@ function setupTable(player_color)
             
             }
         )
-    end
+    end --]]
+	local merchantsTokenBag = Global.getVar('merchantsTokenBag')
+	local goodsTokenBag = Global.getVar('goodsTokenBag')
+	local modsTokenBag = Global.getVar('modsTokenBag')
+	local globalSnapList = Global.getVar('globalSnapList')
+	
+	for i = 1, goodsTokenBag.getQuantity() do
+		goodsTokenBag.takeObject(
+        { 
+			position = Global.positionToWorld(globalSnapList[i+40].position), rotation = {0, 2.18, 180}, smooth = true
+        }
+		)
+	end
 end
