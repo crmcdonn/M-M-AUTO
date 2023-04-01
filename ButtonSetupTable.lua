@@ -13,7 +13,9 @@ end
 
 function setupTable(player_color)
     if player_color ~= "Grey" then
-        getObjectFromGUID("c2369c").deal(1, player_color)
+        local gloryCardDeck = Global.getVar('gloryCardDeck')
+        print(gloryCardDeck)
+        gloryCardDeck.deal(1, player_color)
         --captainZone = getObjectFromGUID("41f748")
         
         snapList = getObjectFromGUID("fc8314").getSnapPoints()

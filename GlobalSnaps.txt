@@ -1,0 +1,1067 @@
+ 1: 
+    "position": 
+      "x": 19.04703
+      "y": 0.9611349
+      "z": 14.5814
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  2: 
+    "position": 
+      "x": 20.53604
+      "y": 0.9611349
+      "z": 14.68573
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  3: 
+    "position": 
+      "x": 19.17431
+      "y": 0.9611349
+      "z": 13.09301
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  4: 
+    "position": 
+      "x": 20.65503
+      "y": 0.9611349
+      "z": 13.21964
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  5: 
+    "position": 
+      "x": 20.7667
+      "y": 0.9611349
+      "z": 11.73814
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  6: 
+    "position": 
+      "x": 19.29358
+      "y": 0.9611349
+      "z": 11.62652
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  7: 
+    "position": 
+      "x": 19.40551
+      "y": 0.9611349
+      "z": 10.12613
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  8: 
+    "position": 
+      "x": 20.90065
+      "y": 0.9611349
+      "z": 10.27519
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  9: 
+    "position": 
+      "x": 0.4018413
+      "y": 0.9611349
+      "z": 16.78209
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  10: 
+    "position": 
+      "x": 7.786852
+      "y": 0.9611349
+      "z": 16.42306
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  11: 
+    "position": 
+      "x": 7.30246
+      "y": 0.9611349
+      "z": 11.25282
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  12: 
+    "position": 
+      "x": 3.649524
+      "y": 0.9611349
+      "z": 11.97838
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  13: 
+    "position": 
+      "x": 11.61495
+      "y": 0.9611349
+      "z": 17.05737
+    "rotation": 
+      "x": 0
+      "y": 165
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  14: 
+    "position": 
+      "x": 4.122031
+      "y": 0.9611349
+      "z": 17.37921
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  15: 
+    "position": 
+      "x": 12.90888
+      "y": 0.9611349
+      "z": 12.92676
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  16: 
+    "position": 
+      "x": 13.83747
+      "y": 0.9611349
+      "z": 12.83329
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  17: 
+    "position": 
+      "x": 14.75269
+      "y": 0.9611349
+      "z": 12.73527
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  18: 
+    "position": 
+      "x": 15.65965
+      "y": 0.9611349
+      "z": 12.64885
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  19: 
+    "position": 
+      "x": 16.57607
+      "y": 0.9611349
+      "z": 12.57277
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  20: 
+    "position": 
+      "x": 12.80359
+      "y": 0.9611349
+      "z": 12.00498
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  21: 
+    "position": 
+      "x": 13.73647
+      "y": 0.9611349
+      "z": 11.91128
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  22: 
+    "position": 
+      "x": 14.64312
+      "y": 0.9611349
+      "z": 11.83592
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  23: 
+    "position": 
+      "x": 15.5716
+      "y": 0.9611349
+      "z": 11.75901
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  24: 
+    "position": 
+      "x": 16.49339
+      "y": 0.9611349
+      "z": 11.6661
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  25: 
+    "position": 
+      "x": 16.39277
+      "y": 0.9611349
+      "z": 10.72283
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  26: 
+    "position": 
+      "x": 15.48822
+      "y": 0.9611349
+      "z": 10.81997
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  27: 
+    "position": 
+      "x": 14.54965
+      "y": 0.9611349
+      "z": 10.90308
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  28: 
+    "position": 
+      "x": 13.62818
+      "y": 0.9611349
+      "z": 10.99594
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  29: 
+    "position": 
+      "x": 12.70627
+      "y": 0.9611349
+      "z": 11.08335
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  30: 
+    "position": 
+      "x": 12.63364
+      "y": 0.9611349
+      "z": 10.17344
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  31: 
+    "position": 
+      "x": 13.57621
+      "y": 0.9611349
+      "z": 10.08462
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  32: 
+    "position": 
+      "x": 14.4809
+      "y": 0.9611349
+      "z": 10.00396
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  33: 
+    "position": 
+      "x": 15.39023
+      "y": 0.9611349
+      "z": 9.912031
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  34: 
+    "position": 
+      "x": 16.3112
+      "y": 0.9611349
+      "z": 9.830218
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  35: 
+    "position": 
+      "x": 16.22043
+      "y": 0.9611349
+      "z": 8.885929
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  36: 
+    "position": 
+      "x": 13.46404
+      "y": 0.9611349
+      "z": 9.174438
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  37: 
+    "position": 
+      "x": 12.54992
+      "y": 0.9611349
+      "z": 9.261183
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  38: 
+    "position": 
+      "x": 15.31559
+      "y": 0.9611349
+      "z": 8.973508
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  39: 
+    "position": 
+      "x": 14.41284
+      "y": 0.9611349
+      "z": 9.066606
+    "rotation": 
+      "x": 0
+      "y": 0
+      "z": 0
+    "rotation_snap": false
+    "tags": 
+
+  40: 
+    "position": 
+      "x": -20.00201
+      "y": 0.9611349
+      "z": 15.1181
+    "rotation": 
+      "x": 0
+      "y": 165
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  41: 
+    "position": 
+      "x": 13.12305
+      "y": 0.9611349
+      "z": 1.767439
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  42: 
+    "position": 
+      "x": 14.41737
+      "y": 0.9611349
+      "z": 2.484029
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  43: 
+    "position": 
+      "x": 18.0847
+      "y": 0.9611349
+      "z": 0.5856661
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  44: 
+    "position": 
+      "x": 19.31263
+      "y": 0.9611349
+      "z": -0.2133613
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  45: 
+    "position": 
+      "x": 16.06935
+      "y": 0.9611349
+      "z": -2.758501
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  46: 
+    "position": 
+      "x": 14.8121
+      "y": 0.9611349
+      "z": -2.098747
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  47: 
+    "position": 
+      "x": 19.9451
+      "y": 0.9611349
+      "z": -7.548087
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  48: 
+    "position": 
+      "x": 18.6179
+      "y": 0.9611349
+      "z": -8.163202
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  49: 
+    "position": 
+      "x": 16.27221
+      "y": 0.9611349
+      "z": -13.63748
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  50: 
+    "position": 
+      "x": 14.95563
+      "y": 0.9611349
+      "z": -13.84544
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  51: 
+    "position": 
+      "x": 9.502516
+      "y": 0.9611349
+      "z": -13.60145
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  52: 
+    "position": 
+      "x": 8.203865
+      "y": 0.9611349
+      "z": -13.38827
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  53: 
+    "position": 
+      "x": 4.035872
+      "y": 0.9611349
+      "z": -11.23612
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  54: 
+    "position": 
+      "x": 2.745493
+      "y": 0.9611349
+      "z": -11.07907
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  55: 
+    "position": 
+      "x": -7.618275
+      "y": 0.9611349
+      "z": -13.28398
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  56: 
+    "position": 
+      "x": -8.482643
+      "y": 0.9611349
+      "z": -14.5465
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  57: 
+    "position": 
+      "x": -18.64382
+      "y": 0.9611349
+      "z": -7.466722
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  58: 
+    "position": 
+      "x": -17.77205
+      "y": 0.9611349
+      "z": -6.215288
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  59: 
+    "position": 
+      "x": -11.97894
+      "y": 0.9611349
+      "z": 0.9402235
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  60: 
+    "position": 
+      "x": -10.62583
+      "y": 0.9611349
+      "z": 1.493349
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  61: 
+    "position": 
+      "x": -17.13355
+      "y": 0.9611349
+      "z": 9.808303
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  62: 
+    "position": 
+      "x": -15.84603
+      "y": 0.9611349
+      "z": 9.953968
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  63: 
+    "position": 
+      "x": -11.64866
+      "y": 0.9611349
+      "z": 13.46484
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  64: 
+    "position": 
+      "x": -10.38701
+      "y": 0.9611349
+      "z": 13.85061
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  65: 
+    "position": 
+      "x": -18.30135
+      "y": 0.9611349
+      "z": 15.4381
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  66: 
+    "position": 
+      "x": -1.797731
+      "y": 0.9611349
+      "z": 3.317961
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  67: 
+    "position": 
+      "x": -0.5346778
+      "y": 0.9611349
+      "z": 3.799198
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  68: 
+    "position": 
+      "x": 4.645393
+      "y": 0.9611349
+      "z": 1.188419
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  69: 
+    "position": 
+      "x": 3.429558
+      "y": 0.9611349
+      "z": 1.740036
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  70: 
+    "position": 
+      "x": -3.490922
+      "y": 0.9611349
+      "z": -0.8697472
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  71: 
+    "position": 
+      "x": -2.312443
+      "y": 0.9611349
+      "z": -1.804232
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  72: 
+    "position": 
+      "x": 7.747975
+      "y": 0.9611349
+      "z": 0.06933916
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  73: 
+    "position": 
+      "x": 9.033
+      "y": 0.9611349
+      "z": 0.1947334
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  74: 
+    "position": 
+      "x": 26.21277
+      "y": 0.9611349
+      "z": 6.699659
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  75: 
+    "position": 
+      "x": 30.64939
+      "y": 0.9611349
+      "z": 6.686749
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  76: 
+    "position": 
+      "x": 26.18729
+      "y": 0.9611349
+      "z": 14.93587
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  77: 
+    "position": 
+      "x": 30.65736
+      "y": 0.9611349
+      "z": 14.95652
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  78: 
+    "position": 
+      "x": 35.14083
+      "y": 0.9611349
+      "z": 6.685031
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  79: 
+    "position": 
+      "x": -30.48419
+      "y": 0.9611349
+      "z": -1.571468
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  80: 
+    "position": 
+      "x": -26.05064
+      "y": 0.9611349
+      "z": -1.58502
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  81: 
+    "position": 
+      "x": 30.66672
+      "y": 0.9611349
+      "z": -1.580962
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  82: 
+    "position": 
+      "x": 26.2161
+      "y": 0.9611349
+      "z": -1.553676
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  83: 
+    "position": 
+      "x": -30.49614
+      "y": 0.9611349
+      "z": 6.688732
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  84: 
+    "position": 
+      "x": -26.05114
+      "y": 0.9611349
+      "z": 6.713897
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  85: 
+    "position": 
+      "x": -30.48639
+      "y": 0.9611349
+      "z": 14.93655
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  86: 
+    "position": 
+      "x": -26.03885
+      "y": 0.9611349
+      "z": 14.9281
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  87: 
+    "position": 
+      "x": -10.5493
+      "y": 0.9611349
+      "z": -17.01253
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  88: 
+    "position": 
+      "x": -0.6788117
+      "y": 0.9611349
+      "z": -14.84539
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags": 
+
+  89: 
+    "position": 
+      "x": -3.557699
+      "y": 0.9611349
+      "z": -15.42584
+    "rotation": 
+      "x": 0
+      "y": 180.0004
+      "z": 0
+    "rotation_snap": true
+    "tags":
