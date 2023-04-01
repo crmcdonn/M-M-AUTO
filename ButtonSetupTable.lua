@@ -1,3 +1,7 @@
+function test()
+	print("Test")
+end
+
 function onLoad()
     params = {
         click_function = "setupTable",
