@@ -17,7 +17,7 @@ function onLoad()
     rumorCardDeck = getObjectFromGUID("08749a")
     rumorCardDeck.randomize()
 
-    missionCardDeck = getObjectFromGUID("db8b7b")
+    missionCardDeck = getObjectFromGUID("13a887")
     missionCardDeck.randomize()
 
     eventCardDeck = getObjectFromGUID("a6e0fe")
@@ -34,6 +34,24 @@ function onLoad()
 
     npcmodsTokenBag = getObjectFromGUID("c691c6")
     npcmodsTokenBag.randomize()
+
+
+    
+    globalSnapList = Global.getSnapPoints()
+
+
+
+    redPlayerMat = getObjectFromGUID("fc8314")
+    redSnapList = redPlayerMat.getSnapPoints()
+
+    greenPlayerMat = getObjectFromGUID("bf311e")
+    greenSnapList = greenPlayerMat.getSnapPoints()
+
+    bluePlayerMat = getObjectFromGUID("ade0fe")
+    blueSnapList = bluePlayerMat.getSnapPoints()
+
+    yellowPlayerMat = getObjectFromGUID("969079")
+    yellowSnapList = yellowPlayerMat.getSnapPoints()
 end
 
 --[[ The onUpdate event is called once per frame. --]]
