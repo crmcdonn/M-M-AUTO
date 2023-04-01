@@ -63,3 +63,19 @@ end
 function shipSpawn(name) 
 	print("Ship Spawn")
 end
+
+function onPlayerChangeColor(player_color)
+	Wait.frames(findPoints, 60)
+end
+
+
+local point = 0
+function findPoints()
+    print(point)
+    if point < 89 then
+        point = point + 1
+		print(globalSnapList[point].position)
+		getObjectFromGUID("fe0676").setPosition(globalSnapList[point].position)
+        Wait.frames(findPoints, 60)
+    end
+end
