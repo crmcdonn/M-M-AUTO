@@ -8,7 +8,7 @@ function onLoad()
     gloryCardDeck = getObjectFromGUID("c2369c")
     gloryCardDeck.randomize()
 
-    captainCardDeck = getObjectFromGUID("5c23eb")
+    captainCardDeck = getObjectFromGUID("eda3a7")
     captainCardDeck.randomize()
     
     cargoCardDeck = getObjectFromGUID("e44d45")
@@ -59,22 +59,7 @@ function onUpdate()
 
 end
 
-function onPlayerChangeColor(player_color)
-	-- findPoints()
+--[[The shipSpawn event is called when a player or NPC ship is spawned. --]]
+function shipSpawn(name) 
+	print("Ship Spawn")
 end
-
---[[ Debug function to find snap points.
-local point = 0
-function findPoints()
-    print(point)
-
-    if point < 90 then
-        point = point + 1
-		print(globalSnapList[point].position)
-		getObjectFromGUID("fe0676").setPosition(globalSnapList[point].position)
-        Wait.frames(findPoints, 60)
-    end
-end
-
-Wait.frames(findPoints, 60)
---]]
