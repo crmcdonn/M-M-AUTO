@@ -1,7 +1,3 @@
-function test()
-	print("Test")
-end
-
 function onLoad()
     params = {
         click_function = "setupTable",
@@ -38,12 +34,18 @@ function setupTable(player_color)
 	local goodsTokenBag = Global.getVar('goodsTokenBag')
 	local modsTokenBag = Global.getVar('modsTokenBag')
 	local globalSnapList = Global.getVar('globalSnapList')
-	
-	for i = 1, goodsTokenBag.getQuantity() do
+	for i = 1, 24, 2 do
 		goodsTokenBag.takeObject(
         { 
-			position = Global.positionToWorld(globalSnapList[i+40].position), rotation = {0, 2.18, 180}, smooth = true
+			position = Global.positionToWorld(globalSnapList[i+40].position), rotation = {0, 182.18, 0}, smooth = true
         }
 		)
 	end
+	for i = 28, 32, 2 do
+		goodsTokenBag.takeObject(
+        { 
+			position = Global.positionToWorld(globalSnapList[i+40].position), rotation = {0, 182.18, 0}, smooth = true
+        }
+		)
+	end 
 end
