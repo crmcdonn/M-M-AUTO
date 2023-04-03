@@ -9,6 +9,7 @@ function onLoad()
         tooltip        = "Setup the board.",
     }
     self.createButton(params)
+	setupButton = getObjectFromGUID("fde60e")
 end
 
 function setupTable(player_color)
@@ -25,7 +26,7 @@ function setupTable(player_color)
         getObjectFromGUID("5c23eb").takeObject(
             {
                 position = getObjectFromGUID("fc8314").positionToWorld(snapList[37].position),
-                --flip = true DONT WORK
+                --flip = true DONT WORKaw
             
             }
         )
@@ -34,25 +35,58 @@ function setupTable(player_color)
 	local goodsTokenBag = Global.getVar('goodsTokenBag')
 	local modsTokenBag = Global.getVar('modsTokenBag')
 	local globalSnapList = Global.getVar('globalSnapList')
+	local missionCardDeck = Global.getVar('missionCardDeck')
+	local zoneMission1 = Global.getVar('zoneMission1')
+	local zoneMission2 = Global.getVar('zoneMission2')
+	
+	for i = 1, 2 do
+		takenObject = missionCardDeck.takeObject(
+			{ 
+				position = Global.positionToWorld(globalSnapList[i+73].position),
+				smooth = false,
+				flip = true
+			}
+		)
+		Global.call("cardCheck",takenObject)
+		print(cardName)
+	end
+	
 	for i = 1, 23, 2 do
 		goodsTokenBag.takeObject(
-        { 
-			position = Global.positionToWorld(globalSnapList[i+40].position), rotation = {0, 182.18, 0}, smooth = true
-        }
+			{ 
+				position = Global.positionToWorld(globalSnapList[i+40].position), 
+				rotation = {0, 182.18, 0}, 
+				smooth = true
+			}
 		)
 	end
 	for i = 27, 33, 2 do
 		goodsTokenBag.takeObject(
-        { 
-			position = Global.positionToWorld(globalSnapList[i+40].position), rotation = {0, 182.18, 0}, smooth = true
-        }
+			{ 
+				position = Global.positionToWorld(globalSnapList[i+40].position), 
+				rotation = {0, 182.18, 0}, 
+				smooth = true
+			}
 		)
 	end
 	for i = 2, 32, 2 do
 		modsTokenBag.takeObject(
-        { 
-			position = Global.positionToWorld(globalSnapList[i+40].position), rotation = {0, 182.18, 180}, smooth = true
-        }
+			{ 
+				position = Global.positionToWorld(globalSnapList[i+40].position), 
+				rotation = {0, 182.18, 180}, 
+				smooth = true
+			}
 		)
 	end
+	for i = 1, merchantsTokenBag.getQuantity() do
+		merchantsTokenBag.takeObject(
+			{ 
+				position = Global.positionToWorld(globalSnapList[i+40].position), 
+				rotation = {0, 182.18, 180}, 
+				smooth = true
+			}
+		)
+	end
+	setupButton.setScale({0, 0, 0})
+	setupButton.setPosition({1000, 1000, 1000})
 end

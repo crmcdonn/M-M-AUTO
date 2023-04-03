@@ -52,6 +52,10 @@ function onLoad()
 
     yellowPlayerMat = getObjectFromGUID("969079")
     yellowSnapList = yellowPlayerMat.getSnapPoints()
+	
+	zoneCurrentEvent = getObjectFromGUID("3f2ac6")
+	zoneMission1 = getObjectFromGUID("a7c438")
+	zoneMission2 = getObjectFromGUID("2d133b")
 end
 
 --[[ The onUpdate event is called once per frame. --]]
@@ -68,6 +72,12 @@ function onPlayerChangeColor(player_color)
 	Wait.frames(findPoints, 60)
 end
 
+--[[The cardCheck event is called when the name or descirption of a card in a scripting zone needs to be checked. --]]
+function cardCheck(currentCard)
+	cardName = currentCard.getName
+	cardDesc = currentCard.getDescription
+	return cardName, cardDesc
+end
 
 local point = 0
 function findPoints()

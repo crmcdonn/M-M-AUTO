@@ -9,28 +9,38 @@ function onLoad()
         tooltip        = "Draw a new event card.",
     }
     self.createButton(params)
-    currentEventZone = getObjectFromGUID("3f2ac6")
 end
 
 --[[ The newEvent funciton is called after the show ships button is clicked. --]]
 function newEvent()  
     local eventCardDeck = Global.getVar('eventCardDeck')
     local globalSnapList = Global.getVar('globalSnapList')
-    eventCardDeck.takeObject(
+	local zoneCurrentEvent = Global.getVar('zoneCurrentEvent')
+    
+	eventCardDeck.takeObject(
         {
             position = Global.positionToWorld(globalSnapList[76].position), flip = true, smooth = false
         }
     )
-    Wait.frames(
+	Global.call("cardCheck",zoneCurrentEvent)
+	if string.find(currentCardName, "Naval Ship") or string.find(currentCardName, "Pirate") then
+		raceCheck(currentCardName)
+		occupyingObject.setRotationSmooth(cardRotation, false, true)
+		occupyingObject.setPositionSmooth(cardPosition, false, false)
+		Global.call("shipSpawn",currentCardName,currentCardDesc)
+	else
+		print("No Ship Spawn")
+	end
+    --[[Wait.frames(
         function()
-            for _, occupyingObject in ipairs(currentEventZone.getObjects()) do
+            for _, occupyingObject in ipairs(zoneCurrentEvent.getObjects()) do
                 currentEventName = occupyingObject.getName()
 				currentEventDesc = occupyingObject.getDescription()
                 print(currentEventName)
 				if string.find(currentEventName, "Naval Ship") or string.find(currentEventName, "Pirate") then
 					raceCheck(currentEventName)
-						occupyingObject.setRotationSmooth(cardRotation, false, true)
-						occupyingObject.setPositionSmooth(cardPosition, false, false)
+					occupyingObject.setRotationSmooth(cardRotation, false, true)
+					occupyingObject.setPositionSmooth(cardPosition, false, false)
 					Global.call("shipSpawn",currentEventName,currentEventDesc)
 				else
 					print("No Ship Spawn")
@@ -38,7 +48,7 @@ function newEvent()
             end
         end,
         60
-    )
+    )--]]
 end
 
 --[[ The raceCheck function is called when an NPC ship is spawned. --]]
